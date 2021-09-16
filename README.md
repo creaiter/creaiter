@@ -14,7 +14,7 @@
   
   <img alt="Stars" src="https://img.shields.io/github/stars/creaiter?affiliations=COLLABORATOR&style=flat&color=%2364F9B8">
   
-  <img alt="Followers" src="https://img.shields.io/github/followers/creaiter?style=flat">
+  <img alt="Followers" src="https://img.shields.io/github/followers/creaiter?style=flat&color=yellowgreen">
 </p>
 
 
