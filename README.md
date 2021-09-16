@@ -1,6 +1,11 @@
-### Hi there 👋
+## Creaiter
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcreaiter&count_bg=%2379C83D&title_bg=%234D4D4D&icon=github.svg&icon_color=%23DBDBDB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcreaiter&count_bg=%2379C83D&title_bg=%234D4D4D&icon=github.svg&icon_color=%23DBDBDB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+#### [CV](https://creaiter.github.io/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/creaiter/Linear-Quantization)
+
 
 <!--
 **creaiter/creaiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
