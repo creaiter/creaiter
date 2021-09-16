@@ -14,9 +14,10 @@
   
   <img alt="Stars" src="https://img.shields.io/github/stars/creaiter?affiliations=COLLABORATOR&style=flat&color=informational">
   
-  <img alt="Followers" src="https://img.shields.io/github/followers/creaiter?style=flat&color=blueviolet">
+  <img alt="Followers" src="https://img.shields.io/github/followers/creaiter?style=flat&color=#88941C">
 </p>
-
+88941C
+blueviolet
 
 ![Creaiter's GitHub stats](https://github-readme-stats.vercel.app/api?username=creaiter&theme=vue&show_icons=true&count_private=true)
 [![Creaiter's GitHub stats](https://github-readme-stats.vercel.app/api?username=creaiter)](https://github.com/anuraghazra/github-readme-stats)
