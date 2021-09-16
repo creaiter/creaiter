@@ -3,15 +3,16 @@
     <img alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcreaiter&count_bg=%230E6FC0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
   </a>
   
-  <img alt="Stars" src="https://img.shields.io/github/stars/creaiter?affiliations=COLLABORATOR&style=flat&color=informational">
+  <img alt="Stars" src="https://img.shields.io/github/stars/creaiter?affiliations=COLLABORATOR&style=flat&color=0E6FC0">
   
-  <img alt="Followers" src="https://img.shields.io/github/followers/creaiter?style=flat&color=88941C">
+  <img alt="Followers" src="https://img.shields.io/github/followers/creaiter?style=flat&color=0E6FC0">
 </p>
-88941C
-blueviolet
 
+<!--
 ![Creaiter's GitHub stats](https://github-readme-stats.vercel.app/api?username=creaiter&theme=vue&show_icons=true&count_private=true)
-[![Creaiter's GitHub stats](https://github-readme-stats.vercel.app/api?username=creaiter)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+### Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=creaiter&repo=Linear-Quantization&show_owner=false&theme=vue)](https://github.com/creaiter/Linear-Quantization)
 
