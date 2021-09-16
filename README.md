@@ -4,7 +4,7 @@
 
 #### [CV](https://creaiter.github.io/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/creaiter/Linear-Quantization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=creaiter&repo=Linear-Quantization&show_owner=true)](https://github.com/creaiter/Linear-Quantization)
 
 
 <!--
