@@ -20,11 +20,11 @@
 
 <p align="center">
   <a href="https://github.com/creaiter/Linear-Quantization">
-    <img alt="Card" src="https://github-readme-stats.vercel.app/api/pin/?username=creaiter&repo=Linear-Quantization&show_owner=false&title_color=479E72">
+    <img alt="Card" src="https://github-readme-stats.vercel.app/api/pin/?username=creaiter&repo=Linear-Quantization&show_owner=false&title_color=5FBC8D">
   </a>
   
   <a href="https://github.com/creaiter/Linear-Quantization">
-    <img alt="Card" src="https://github-readme-stats.vercel.app/api/pin/?username=creaiter&repo=Linear-Quantization&show_owner=false&title_color=479E72">
+    <img alt="Card" src="https://github-readme-stats.vercel.app/api/pin/?username=creaiter&repo=Linear-Quantization&show_owner=false&title_color=5FBC8D">
   </a>
 </p>
 
