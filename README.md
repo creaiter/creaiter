@@ -21,7 +21,7 @@
 ![Creaiter's GitHub stats](https://github-readme-stats.vercel.app/api?username=creaiter&theme=vue&show_icons=true&count_private=true)
 [![Creaiter's GitHub stats](https://github-readme-stats.vercel.app/api?username=creaiter)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=creaiter&repo=Linear-Quantization&show_owner=true)](https://github.com/creaiter/Linear-Quantization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=creaiter&repo=Linear-Quantization&show_owner=false&theme=vue)](https://github.com/creaiter/Linear-Quantization)
 
 
 <!--
