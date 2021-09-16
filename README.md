@@ -14,6 +14,8 @@
 
 ### Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=creaiter&repo=Linear-Quantization&show_owner=false&title_color=67E1A3)](https://github.com/creaiter/Linear-Quantization)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=creaiter&repo=Linear-Quantization&show_owner=false&theme=vue)](https://github.com/creaiter/Linear-Quantization)
 
 
