@@ -15,8 +15,24 @@
 ### Projects
 
 <p align="center">
-  <a href="https://github.com/creaiter/Linear-Quantization">
-    <img alt="Card" src="https://github-readme-stats.vercel.app/api/pin/?username=creaiter&repo=Linear-Quantization&show_owner=false&title_color=5FBC8D">
+  <a href="https://github.com/mlvc-lab/AIChallenge_4th_Round1">
+    <img alt="Card" src="https://github-readme-stats.vercel.app/api/pin/?username=mlvc-lab&repo=AIChallenge_4th_Round1&show_owner=true&title_color=5FBC8D">
+  </a>
+  
+  <a href="https://github.com/INCHEON-CHO/Dynamic_Model_Pruning_with_Feedback">
+    <img alt="Card" src="https://github-readme-stats.vercel.app/api/pin/?username=INCHEON-CHO&repo=Dynamic_Model_Pruning_with_Feedback&show_owner=true&title_color=5FBC8D">
+  </a>
+  
+  <a href="https://github.com/IRIS-AUDIO/challenge">
+    <img alt="Card" src="https://github-readme-stats.vercel.app/api/pin/?username=IRIS-AUDIO&repo=challenge&show_owner=true&title_color=5FBC8D">
+  </a>
+  
+  <a href="https://github.com/creaiter/AI-conference-papers">
+    <img alt="Card" src="https://github-readme-stats.vercel.app/api/pin/?username=creaiter&repo=AI-conference-papers&show_owner=false&title_color=5FBC8D">
+  </a>
+  
+  <a href="https://github.com/creaiter/Classification_PyTorch">
+    <img alt="Card" src="https://github-readme-stats.vercel.app/api/pin/?username=creaiter&repo=Classification_PyTorch&show_owner=false&title_color=5FBC8D">
   </a>
   
   <a href="https://github.com/creaiter/Linear-Quantization">
