@@ -12,9 +12,9 @@
     <img alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcreaiter&count_bg=%2388941C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
   </a>
   
-  <img alt="Stars" src="https://img.shields.io/github/stars/creaiter?affiliations=COLLABORATOR&style=flat&color=%2364F9B8">
+  <img alt="Stars" src="https://img.shields.io/github/stars/creaiter?affiliations=COLLABORATOR&style=flat&color=informational">
   
-  <img alt="Followers" src="https://img.shields.io/github/followers/creaiter?style=flat&color=yellowgreen">
+  <img alt="Followers" src="https://img.shields.io/github/followers/creaiter?style=flat&color=blueviolet">
 </p>
 
 
