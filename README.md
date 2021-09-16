@@ -1,15 +1,6 @@
-
-👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcreaiter&count_bg=%2379C83D&title_bg=%234D4D4D&icon=github.svg&icon_color=%23DBDBDB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcreaiter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![GitHub followers](https://img.shields.io/github/followers/creaiter?style=social)
-![GitHub followers](https://img.shields.io/github/followers/creaiter?style=plastic)
-![GitHub User's stars](https://img.shields.io/github/stars/creaiter?affiliations=COLLABORATOR&style=plastic)
-
 <p align="center">
   <a href="https://hits.seeyoufarm.com">
-    <img alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcreaiter&count_bg=%2388941C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+    <img alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcreaiter&count_bg=%23yellow&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
   </a>
   
   <img alt="Stars" src="https://img.shields.io/github/stars/creaiter?affiliations=COLLABORATOR&style=flat&color=informational">
