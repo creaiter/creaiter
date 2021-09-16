@@ -18,6 +18,15 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=creaiter&repo=Linear-Quantization&show_owner=false&theme=vue)](https://github.com/creaiter/Linear-Quantization)
 
+<p align="center">
+  <a href="https://github.com/creaiter/Linear-Quantization">
+    <img alt="Card" src="https://github-readme-stats.vercel.app/api/pin/?username=creaiter&repo=Linear-Quantization&show_owner=false&title_color=479E72">
+  </a>
+  
+  <a href="https://github.com/creaiter/Linear-Quantization">
+    <img alt="Card" src="https://github-readme-stats.vercel.app/api/pin/?username=creaiter&repo=Linear-Quantization&show_owner=false&title_color=479E72">
+  </a>
+</p>
 
 <!--
 **creaiter/creaiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
