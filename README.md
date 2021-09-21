@@ -32,7 +32,7 @@
   </a>
   
   <a href="https://github.com/creaiter/Classification_PyTorch">
-    <img alt="Card" src="https://github-readme-stats.vercel.app/api/pin/?username=creaiter&repo=Classification_PyTorch&show_owner=false&title_color=5FBC8D">
+    <img alt="Card" src="https://github-readme-stats.vercel.app/api/pin/?username=creaiter&repo=Classification-PyTorch&show_owner=false&title_color=5FBC8D">
   </a>
   
   <a href="https://github.com/creaiter/Linear-Quantization">
